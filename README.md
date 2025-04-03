@@ -72,10 +72,4 @@ After training for 10 epochs, the model achieves an accuracy of around 85% on th
 - Explore more advanced text preprocessing techniques (e.g., stemming, lemmatization) to further enhance the model's ability to generalize.
 - Incorporate pre-trained word embeddings (e.g., Word2Vec, GloVe) to leverage external knowledge and potentially improve accuracy.
 
-## Contributing
 
-Contributions to this project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
